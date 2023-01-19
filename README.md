@@ -35,27 +35,11 @@
     <br />
     <a href="https://discord.gg/JRVPjPe3d8">Join Discord</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordCDN/issues">Report Bug</a>
+    <a href="https://github.com/NicoRuizDev/Dashactyl-Manager/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NicoRuizDev/DiscordCDN/issues">Request Feature</a>
+    <a href="https://github.com/NicoRuizDev/Dashactyl-Manager/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -106,9 +90,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b NicoRuizDev/DiscordCDN`)
-3. Commit your Changes (`git commit -m 'Add some DiscordCDN'`)
-4. Push to the Branch (`git push origin NicoRuizDev/DiscordCDN`)
+2. Create your Feature Branch (`git checkout -b NicoRuizDev/Dashactyl-Manager`)
+3. Commit your Changes (`git commit -m 'Add some Dashactyl-Manager'`)
+4. Push to the Branch (`git push origin NicoRuizDev/Dashactyl-Manager`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -127,7 +111,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/NicoRuizDev/DiscordCDN](https://github.com/NicoRuizDev/DiscordCDN)
+Project Link: [https://github.com/NicoRuizDev/Dashactyl-Manager](https://github.com/NicoRuizDev/Dashactyl-Manager)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,14 +130,14 @@ Project Link: [https://github.com/NicoRuizDev/DiscordCDN](https://github.com/Nic
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[contributors-url]: https://github.com/NicoRuizDev/DiscordCDN/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[forks-url]: https://github.com/NicoRuizDev/DiscordCDN/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[stars-url]: https://github.com/NicoRuizDev/DiscordCDN/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[issues-url]: https://github.com/NicoRuizDev/DiscordCDN/issues
-[license-shield]: https://img.shields.io/github/license/NicoRuizDev/DiscordCDN.svg?style=for-the-badge
-[license-url]: https://github.com/NicoRuizDev/DiscordCDN/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/Dashactyl-Manager.svg?style=for-the-badge
+[contributors-url]: https://github.com/NicoRuizDev/Dashactyl-Manager/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/Dashactyl-Manager.svg?style=for-the-badge
+[forks-url]: https://github.com/NicoRuizDev/Dashactyl-Manager/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/Dashactyl-Manager.svg?style=for-the-badge
+[stars-url]: https://github.com/NicoRuizDev/Dashactyl-Manager/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/Dashactyl-Manager.svg?style=for-the-badge
+[issues-url]: https://github.com/NicoRuizDev/Dashactyl-Manager/issues
+[license-shield]: https://img.shields.io/github/license/NicoRuizDev/Dashactyl-Manager.svg?style=for-the-badge
+[license-url]: https://github.com/NicoRuizDev/Dashactyl-Manager/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
