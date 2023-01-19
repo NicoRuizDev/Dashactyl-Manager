@@ -67,15 +67,21 @@ This Discord bot allows users to manage their Dashactyl accounts directly from a
 
 ## Key Features
 
--   Create coupons: Users can create new coupons with specified codes and discount percentages using the `!createcoupon` command.
--   Set coins and plans: Users can set the amount of coins and plans for specific users using the `!setcoins` and `!setplan` commands.
--   Delete accounts: Users can delete their Dashactyl accounts using the `!deleteaccount` command.
--   Get information: Users can get detailed information about their resources and other account information using the `!getinfo` command.
--   Other features: The bot can also handle other commands such as `!help` to show all available commands.
+-   Create coupons: Users can create new coupons with specified codes and discount percentages using the `/createcoupon` command.
+-   Set coins and plans: Users can set the amount of coins and plans for specific users using the `/addcoins` command.
+-   Delete accounts: Users can delete their Dashactyl accounts using the `/removeaccount` command.
+-   Get information: Users can get detailed information about their resources and other account information using the `/userinfo` command.
+-   Other features: The bot can also handle other commands such as `/setplan`, `/deletecoupon`, `/setresources` to show all available commands.
+
+## Conclusion
+
+This bot streamlines the process of managing a Dashactyl account and provides a convenient way for users to access the platform's features directly from Discord. It allows users to easily perform actions like creating coupons, setting coins and plans, deleting accounts, and getting information about their resources all from the discord chat.
+
+Please note that the above markdown will not preserve the styling when you copy and paste it to discord or other markdown renderer. You need to use the discord markdown or the markdown that is supported by the renderer.
 
 ### Built With
 
-* [NodeJs v14](https://nodejs.org)
+* [NodeJs v16](https://nodejs.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -84,7 +90,7 @@ This Discord bot allows users to manage their Dashactyl accounts directly from a
 <!-- DOCUMENTATION -->
 ## Documentation
 
-Documentation of cdn is hosted on our documentation page: [https://docs.nicoruiz.dev/](https://docs.nicoruiz.dev/docs/category/discordcdn)
+Documentation of this Discord BOT is hosted on our documentation page: [https://docs.nicoruiz.dev/](https://docs.nicoruiz.dev/docs/category/discordcdn)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -131,7 +137,7 @@ Project Link: [https://github.com/NicoRuizDev/DiscordCDN](https://github.com/Nic
 ## Acknowledgments
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [NodeJs v14](https://nodejs.org)
+* [NodeJs v16](https://nodejs.org)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
