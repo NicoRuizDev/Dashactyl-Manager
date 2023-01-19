@@ -13,7 +13,7 @@ module.exports = (client) => {
         .readdirSync(`${path}/${folder}`)
         .filter((file) => file.endsWith(".js"));
       for (const file of commandFiles) {
-        const command = require(`../commands/${folder}/${file}`);
+        const command = require(`../commands/${file}`);
         client.commands.set(command.data.name, command);
         client.commandArray.push(command.data.toJSON());
       }
