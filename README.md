@@ -65,6 +65,14 @@ This Discord bot allows users to manage their Dashactyl accounts directly from a
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Key Features
+
+-   Create coupons: Users can create new coupons with specified codes and discount percentages using the `!createcoupon` command.
+-   Set coins and plans: Users can set the amount of coins and plans for specific users using the `!setcoins` and `!setplan` commands.
+-   Delete accounts: Users can delete their Dashactyl accounts using the `!deleteaccount` command.
+-   Get information: Users can get detailed information about their resources and other account information using the `!getinfo` command.
+-   Other features: The bot can also handle other commands such as `!help` to show all available commands.
+
 ### Built With
 
 * [NodeJs v14](https://nodejs.org)
