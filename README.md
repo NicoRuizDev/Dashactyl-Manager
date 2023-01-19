@@ -25,10 +25,10 @@
 <br />
 <div align="center">
   
-  <h3 align="center">DiscordCDN</h3>
+  <h3 align="center">Dashactyl-Manager</h3>
 
   <p align="center">
-    A CDN which can be used to display embed images on Discord!
+    Discord bot for managing Dashactyl account using API commands.
     <br />
     <a href="https://docs.nicoruiz.dev/"><strong>Explore the docs »</strong></a>
     <br />
@@ -61,16 +61,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is maded to make your work easier on Discord. It can easily share files with professional cdn images. This is free to use for private purposes might get copyright issues if you removed the credits. Everything is designed using Material KIT (Thanks for making such a resource, saved alot of time). Make sure to star the directory if you liked our this type of project. Thanks, below is a sneaky peak of the website
-
-
-<div align="center">
-<img src="https://i.imgur.com/Kcxquj9.png" alt="Demo" width="880" height="532">
-</div>
+This Discord bot allows users to manage their Dashactyl accounts directly from a Discord server using commands. The bot utilizes the Dashactyl API to interact with the Dashactyl platform, providing users with a convenient way to access the platform's features without leaving Discord.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
