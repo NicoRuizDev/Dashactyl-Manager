@@ -15,7 +15,6 @@ module.exports = {
   async execute(interaction, client) {
     const id = interaction.options.getString("id");
     const userid = parseInt(id);
-    const strid = toString(id);
 
     if (id != null) {
       if (isNaN(userid)) {
