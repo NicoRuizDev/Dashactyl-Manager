@@ -1,7 +1,7 @@
-Name=   DevelopersSwitch
-Icon=   APP_ICON
-Dash_URL=   http://localhost
-Admin_ROLE_ID=  ADMIN ROLE ID 
-DASH_API=   DASHACTYL API
-Token=  BOT TOKEN
-DISCORD_CLIENT_ID=  CLIENT ID
+Name=DevelopersSwitch
+Icon=APP_ICON
+Dash_URL=http://localhost
+Admin_ROLE_ID=ADMIN ROLE ID 
+DASH_API=DASHACTYL API
+Token=BOT TOKEN
+DISCORD_CLIENT_ID=CLIENT ID
