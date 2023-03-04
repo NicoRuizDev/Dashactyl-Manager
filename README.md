@@ -30,7 +30,7 @@
   <p align="center">
     Discord bot for managing Dashactyl account using API commands.
     <br />
-    <a href="https://docs.nicoruiz.dev/"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.nicoruiz.dev/docs/category/dashactyl-manager"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://discord.gg/JRVPjPe3d8">Join Discord</a>
@@ -74,7 +74,7 @@ Please note that the above markdown will not preserve the styling when you copy 
 <!-- DOCUMENTATION -->
 ## Documentation
 
-Documentation of this Discord BOT is hosted on our documentation page: [https://docs.nicoruiz.dev/](https://docs.nicoruiz.dev/docs/category/discordcdn)
+Documentation of this Discord BOT is hosted on [https://docs.nicoruiz.dev/docs/category/dashactyl-manager](https://docs.nicoruiz.dev/docs/category/dashactyl-manager)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -120,7 +120,6 @@ Project Link: [https://github.com/NicoRuizDev/Dashactyl-Manager](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Choose an Open Source License](https://choosealicense.com)
 * [NodeJs v16](https://nodejs.org)
 
 
