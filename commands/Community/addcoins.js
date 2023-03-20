@@ -22,7 +22,7 @@ module.exports = {
         if (adminRole) {
             const data = { id: Iuser, coins: Icoins }
 
-            await axios.post(process.env.Dash_URL + '/api/setcoins', data, {
+            await axios.post(process.env.Dash_URL + '/api/addcoins', data, {
                 headers: {
                     'Authorization': `Bearer ${process.env.DASH_API}`
                 }
