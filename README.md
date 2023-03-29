@@ -19,7 +19,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-
+## ⚠️ Warning
 <h3> This project is no longer maintained by us, it means it will not recieve any security updates. </h3>
 Alternatively, you can use our Public bot Switch Manager. It has both Dashactyl Commands and Linkvertse Feature. you can invite our bot by through this link: <br> https://discord.com/api/oauth2/authorize?client_id=1066019748070039642&permissions=268462128&scope=applications.commands%20bot
 <!-- PROJECT LOGO -->
