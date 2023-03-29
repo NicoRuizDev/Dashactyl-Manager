@@ -20,7 +20,7 @@
 [![MIT License][license-shield]][license-url]
 
 
-# This project might work, but will not recieve any security updates, you can use our Public bot **Switch Manager**. It has both Dashactyl and Linkvertse Feature. you can invite our bot by [clicking here][https://discord.com/api/oauth2/authorize?client_id=1066019748070039642&permissions=268462128&scope=applications.commands%20bot]
+<h3> This project is no longer maintained by us, it means it will not recieve any security updates, you can use our Public bot **Switch Manager**. It has both Dashactyl Commands and Linkvertse Feature. you can invite our bot by **[Clicking Jere][https://discord.com/api/oauth2/authorize?client_id=1066019748070039642&permissions=268462128&scope=applications.commands%20bot]** </h3>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
